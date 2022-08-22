@@ -2,7 +2,6 @@
 
 ## Course info:
 * Mondays and Wednesdays, 11-12:15
-<<<<<<< HEAD
 * Location:
   * Mondays: CIF 2025
   * Wednesdays: SC 0403
