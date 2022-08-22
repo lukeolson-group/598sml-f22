@@ -2,7 +2,7 @@
 
 Course meetings:
 * Mondays and Wednesdays, 11-12:15
-* Location TDB
+* Location: Mondays CIF 2025, Wednesdays TBD
 
 Assignments will be submitted on the [internal GitHub repository](https://github.com/lukeolson-group/598sml-f22-internal)
 
