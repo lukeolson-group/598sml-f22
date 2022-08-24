@@ -60,12 +60,16 @@ missed in class (via Zoom).
   - Topic: What is Sci ML? And what is this course?
   - Topic: Overview of tools
 - W02 (0829)
-  - Topic: Overview of "the field"
-  - Topic: optimizers
-  - Topic: more about networks
-  - Topic: survey of networks, what to use when and where
-     - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
+  - Topic: All about derivatives
+  - Topic: Approximating functions
+  - https://arxiv.org/pdf/1502.05767.pdf
+  - http://colah.github.io/posts/2015-08-Backprop/
+  - https://openreview.net/pdf?id=BJJsrmfCZ
+  - https://datahacker.rs/004-computational-graph-and-autograd-with-pytorch/
 - W04 (0905)
+   - Topic: survey of networks, what to use when and where
+   - Topic: optimizers
+   - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
    - M/W: PINNs
 - W05 (0912)
    - M/W: GNNs/Resnets
