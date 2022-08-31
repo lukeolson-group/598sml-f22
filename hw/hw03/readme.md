@@ -1,4 +1,4 @@
-# HW03 - Due Wednesday 2022-09-07
+# HW03 - Due Wednesday 2022-09-14
 
 Push your completed notebook for `pinn-burgers.ipynb` to:
 
