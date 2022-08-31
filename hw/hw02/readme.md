@@ -1,4 +1,4 @@
-# HW02 - Due Monday 2022-09-05
+# HW02 - Due Wednesday 2022-09-07
 
 Push your completed notebook for `3-function-approx.ipynb` to:
 
