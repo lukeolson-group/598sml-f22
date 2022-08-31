@@ -66,6 +66,9 @@ missed in class (via Zoom).
   - http://colah.github.io/posts/2015-08-Backprop/
   - https://openreview.net/pdf?id=BJJsrmfCZ
   - https://datahacker.rs/004-computational-graph-and-autograd-with-pytorch/
+  - PINNs
+    - https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Nature-REviews_GK.pdf
+    - https://www.sciencedirect.com/science/article/pii/S0021999118307125
 - W04 (0905)
    - Topic: survey of networks, what to use when and where
    - Topic: optimizers
