@@ -4,7 +4,7 @@
 * Mondays and Wednesdays, 11-12:15
 * Location:
   * Mondays: CIF 2025
-  * Wednesdays: SC 0403
+  * Wednesdays: SC 4403
 * Instructors:
   * Prof. Luke Olson, http://lukeo.cs.illinois.edu/
   * Prof. Matt West, https://lagrange.mechse.illinois.edu/
