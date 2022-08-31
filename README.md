@@ -102,4 +102,6 @@ missed in class (via Zoom).
 
 ## Grading
 
-To be finalized in W01.
+Final course scores will be computed as 40% weekly Homeworks and 60% Final Project.
+
+Grades will use the standard 10-point scale, so 90-100 is A-/A/A+, 80-90 is B-/B/B+, etc.
