@@ -107,7 +107,7 @@ missed in class (via Zoom).
   - M: selecting a topic
   - W: Data workflows
 - W26 (1003)
-  - M: `prj01` due: selecting a topic
+  - M: `prj00` due: selecting a topic
   - W: Optimizers
 - W09 (1010)
   - M: Reference checks what are you citing?
