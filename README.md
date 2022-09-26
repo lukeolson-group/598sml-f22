@@ -105,9 +105,10 @@ missed in class (via Zoom).
   - W: PyTorch on HAL
 - W07 (0926)
   - M: selecting a topic
+    - `prj00` due: selecting a topic + peer feedback
   - W: Data workflows
 - W26 (1003)
-  - M: `prj00` due: selecting a topic
+  - M: `prj01` due: topic write-up (< 1page)
   - W: Optimizers
 - W09 (1010)
   - M: Reference checks what are you citing?
