@@ -105,13 +105,17 @@ missed in class (via Zoom).
   - W: PyTorch on HAL
 - W07 (0926)
   - M: selecting a topic
-    - `prj00` due: selecting a topic + peer feedback
+    - `prj00`: selecting a topic + peer feedback
+    - `prj01`: topic write-up (< 1page)
   - W: Data workflows
 - W26 (1003)
-  - M: `prj01` due: topic write-up (< 1page)
+  - M: `prj02`: project goals, a list
   - W: Optimizers
 - W09 (1010)
-  - M: Reference checks what are you citing?
+  - M (10/10): `proj00`, `proj01`, `proj02` due
+  - M (10/10): What are your key references?  What is the objective of your project?
+  - W (10/12): `hw04` and `hw05` due
+  - W (10/12): neural ODEs
 - W10 (1017)
   - M: Setting up the simulation
 - W11 (1024)
