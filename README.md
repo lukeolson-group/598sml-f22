@@ -73,32 +73,36 @@ missed in class (via Zoom).
    - Topic: survey of networks, what to use when and where
    - Topic: optimizers
    - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
-   - M/W: PINNs
 - W05 (0912)
-   - M/W: GNNs/Resnets
+  - M: Selecting a project (`prj01`)
+  - W: xyz
 - W06 (0919)
-  - M: selecting a topic
-  - W: data workflows
+  - M: CPINNS
+  - W: XPINNS and Domain Decomposition (`hw04`)
 - W07 (0926)
-  - MW: deep Galerkin/Ritz
+  - M: Project workflow, steps (`prj02`)
+  - W: Domain decomposition (`hw05`)
 - W26 (1003)
-  - MW: Optimizers
+  - M: Elliptic PDEs
+  - W: Domain decomposition (`hw06`, optional)
 - W09 (1010)
-  - M: Reference checks what are you citing?
-- W10 (1017)
+  - M: Project setup (`prj03`)
+  - W: Neural ODEs (~~`hw07`~~)
+- W10 (1017) 
   - M: Setting up the simulation
+  - W: Neural ODEs (~~`hw07`~~)
 - W11 (1024)
-  - M: Training results
-  - W: Specialized talk
+  - M: Present training results (`prj04`)
+  - W: Neural Operators
 - W12 (1031)
-  - M: Training results
-  - W: Specialized talk
+  - M: Project peer feedback (`prj05`)
+  - W: Graph Neural Networks
 - W13 (1107)
   - M: Training results
   - W: Specialized talk
 - W14 (1114)
   - M: Preliminary results, pretty picture
-  - W: Specialized talk
+  - W: Project Guidelines
 - (1121) ~~Thanksgiving~~
 - W15 (1128) Presentations M/W
 - W16 (1205) Presentations M/W
