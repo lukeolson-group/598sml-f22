@@ -78,18 +78,50 @@ missed in class (via Zoom).
   - W: xyz
 - W06 (0919)
   - M: CPINNS
+    - `prj00`: selecting a topic + peer feedback
   - W: XPINNS and Domain Decomposition (`hw04`)
 - W07 (0926)
   - M: Project workflow, steps (`prj02`)
+    - `prj01`: topic write-up (< 1page)
   - W: Domain decomposition (`hw05`)
-- W26 (1003)
+  - W: Data workflows
+- W08 (1003)
   - M: Elliptic PDEs
+  - M: `prj02`: project goals, a list
   - W: Domain decomposition (`hw06`, optional)
 - W09 (1010)
   - M: Project setup (`prj03`)
+  - M (10/10): `proj00`, `proj01`, `proj02` due
+  - W (10/12): `hw04` and `hw05` due
   - W: Neural ODEs (~~`hw07`~~)
 - W10 (1017) 
+  - M: Domain decomposition and elliptic problems
   - M: Setting up the simulation
+  - M: readings
+    - Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next
+      - Cuomo, Di Cola, Giampaolo, Rozza, Raissi, Piccialli, 2022
+      - https://link.springer.com/article/10.1007/s10915-022-01939-z
+    - hp-VPINNs: variational physics-informed neural networks with domain decomposition
+      - Li, Tang, Wu, and Liao, 2019.
+      - https://ieeexplore.ieee.org/document/8918421
+    - Parallel Physics-Informed Neural Networks via Domain Decomposition
+      - Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis, 2021
+      - https://www.sciencedirect.com/science/article/pii/S0021999121005787
+    - Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems
+      - Ameya D. Jagtap Ehsan Kharazmi George Em Karniadakis 2020
+      - https://www.sciencedirect.com/science/article/pii/S0045782520302127
+    - Physics-informed neural networks for high-speed flows
+      - Zhiping MaoAmeya D. JagtapGeorge Em Karniadakis, 2019
+      - https://www.sciencedirect.com/science/article/pii/S0045782519306814
+    - RESPECTING CAUSALITY IS ALL YOU NEED FOR TRAINING PHYSICS-INFORMED NEURAL NETWORKS
+      - Wang, Sankaran, Perdikaris, 2022
+      - https://arxiv.org/pdf/2203.07404.pdf
+    - hp-VPINNs: Variational physics-informed neural networks with domain decomposition
+      - Ehsan KharazmiZhongqiang ZhangGeorge E.M. Karniadakis 2021
+      - https://www.sciencedirect.com/science/article/pii/S0045782520307325
+    - DGM: A deep learning algorithm for solving partial differential equations
+      - Sirignano, Spiliopoulos, 2018
+  - W: PyTorch on HAL
   - W: Neural ODEs (~~`hw07`~~)
 - W11 (1024)
   - M: Present training results (`prj04`)
