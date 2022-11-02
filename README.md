@@ -89,11 +89,31 @@ missed in class (via Zoom).
   - M: Elliptic PDEs
   - M: `prj02`: project goals, a list
   - W: Domain decomposition (`hw06`, optional)
+    - Parallel Physics-Informed Neural Networks via Domain Decomposition
+      - https://arxiv.org/pdf/2104.10013.pdf
+    - HAL
+      - https://wiki.ncsa.illinois.edu/display/ISL20/HAL+cluster
+    - D3M: A Deep Domain Decomposition Method for Partial Differential Equations
+      - https://ieeexplore.ieee.org/document/8918421
 - W09 (1010)
   - M: Project setup (`prj03`)
   - M (10/10): `proj00`, `proj01`, `proj02` due
   - W (10/12): `hw04` and `hw05` due
   - W: Neural ODEs (~~`hw07`~~)
+    - Neural Ordinary Differential Equations:
+      - https://arxiv.org/abs/1806.07366
+    - Deep Residual Learning for Image Recognition
+      - https://arxiv.org/abs/1512.03385
+    - Forecasting the outcome of spintronic experiments with Neural Ordinary Differential Equations
+      - https://www.nature.com/articles/s41467-022-28571-7
+    - Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond
+      - https://implicit-layers-tutorial.org/ 
+    - Implicit differentiation
+      - https://en.wikipedia.org/wiki/Implicit_function#Implicit_differentiation
+    - PyTorch Implementation of Differentiable ODE Solvers
+      - https://github.com/rtqichen/torchdiffeq
+    - Torchdyn
+      - https://github.com/DiffEqML/torchdyn
 - W10 (1017) 
   - M: Domain decomposition and elliptic problems
   - M: Setting up the simulation
@@ -123,9 +143,17 @@ missed in class (via Zoom).
       - Sirignano, Spiliopoulos, 2018
   - W: PyTorch on HAL
   - W: Neural ODEs (~~`hw07`~~)
+    - Neural Ordinary Differential Equations
+      - https://arxiv.org/pdf/1806.07366.pdf
+    - STEER: Simple Temporal Regularization For Neural ODEs
+      - https://arxiv.org/pdf/2006.10711.pdf
+    - Stiff Neural Ordinary Differential Equations
+      - https://arxiv.org/pdf/2103.15341.pdf
 - W11 (1024)
   - M: Present training results (`prj04`)
   - W: Neural Operators
+    - Neural Operator: Graph Kernel Network for Partial Differential Equations 
+      - https://arxiv.org/pdf/2003.03485.pdf
 - W12 (1031)
   - M: Project peer feedback (`prj05`)
   - W: Graph Neural Networks
