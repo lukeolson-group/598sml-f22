@@ -162,7 +162,16 @@ missed in class (via Zoom).
   - W: Specialized talk
 - W14 (1114)
   - M: Preliminary results, pretty picture
-  - W: Project Guidelines
+  - W: Neural Operators, DeepONets, and Gaussian Processes
+    - GP Kernels: https://peterroelants.github.io/posts/gaussian-process-kernels/
+    - Multivariate distributions: https://peterroelants.github.io/posts/multivariate-normal-primer/ 
+    - Gausssian Processes: https://peterroelants.github.io/posts/gaussian-process-tutorial/
+    - An implementation of DeepONets: https://github.com/jdtoscano94/Learning-Python-Physics-Informed-Machine-Learning-PINNs-DeepONets
+    - DeepOnet: Learning nonlinear operators based on the universal approximation theorem of operators: https://www.youtube.com/watch?v=1bS0q0RkoH0
+    - DeepONet: Learning nonlinear operators: https://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf
+    - GP and Regression: https://github.com/jwangjie/Gaussian-Processes-Regression-Tutorial
+    - Learning nonlinear operators via DeepONet based on the universal approximation theorem
+of operators: https://doi.org/10.1038/s42256-021-00302-5
 - (1121) ~~Thanksgiving~~
 - W15 (1128) Presentations M/W
 - W16 (1205) Presentations M/W
